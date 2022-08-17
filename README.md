@@ -22,7 +22,7 @@ $ make
 To use, just enter the commands you want in the "instructions.dsk" file, and then run:
 
 ```console
-$./main
+$ ./main
 ```
 
 # Screenshots
