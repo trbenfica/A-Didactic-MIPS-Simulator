@@ -1,11 +1,12 @@
 # Transparent MIPS architecture simulator
 
-Seeking to demonstrate the operation of the MIPS architecture, this simulator was built in order to perform a series of
+  Seeking to demonstrate the operation of the MIPS architecture, this simulator was built in order to perform a series of
 instructions belonging to the architecture's ISA. Running directly in the terminal, the instructions are executed one by one,
 always showing the impact they have on the structure of the machine. After the execution of each instruction, the state
 of the machine is always updated, making it possible to visualize the contents of the registers, of the different levels of the memory
 cache, page table, main memory, etc. In addition, it also allows checking the hit rate of caches and
-of TLB. This software was developed as a project of the discipline of Computer Architecture and Organization II, being thought of
+of TLB.
+  This software was developed as a project of the discipline of Computer Architecture and Organization II, being thought of
 in order to provide a transparent view of how the architecture works. It will be seen that it constitutes a didactic software,
 proving to be interesting especially for students who are learning about Computer Architecture and Organization.
 
