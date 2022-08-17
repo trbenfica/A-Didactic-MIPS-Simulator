@@ -15,15 +15,15 @@ proving to be interesting especially for students who are learning about Compute
 
 To install:
 
-'''console
+```console
 $ make
-'''
+```
 
 To use, just enter the commands you want in the "instructions.dsk" file, and then run:
 
-'''console
+```console
 $./main
-'''
+```
 
 # Screenshots
  At startup:
