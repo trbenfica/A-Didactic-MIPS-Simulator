@@ -12,7 +12,7 @@ proving to be interesting especially for students who are learning about Compute
 
 # Screenshots
 
-![](https://user-images.githubusercontent.com/50810498/185251508-d9ec82db-e024-4d1a-8924-a72745ead000.png)
-![](https://user-images.githubusercontent.com/50810498/185251717-2053a572-9929-49f4-ae26-161b65b42881.png)
-![image](https://user-images.githubusercontent.com/50810498/185251826-5399e292-7555-47d9-8ed1-7e58efd41f52.png)
+![Startup](https://user-images.githubusercontent.com/50810498/185251508-d9ec82db-e024-4d1a-8924-a72745ead000.png)
+![Components and their content](https://user-images.githubusercontent.com/50810498/185251717-2053a572-9929-49f4-ae26-161b65b42881.png)
+![after some commands have been executed](https://user-images.githubusercontent.com/50810498/185251826-5399e292-7555-47d9-8ed1-7e58efd41f52.png)
 
