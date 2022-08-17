@@ -11,6 +11,20 @@ This software was developed as a project of the discipline of Computer Architect
 in order to provide a transparent view of how the architecture works. It will be seen that it constitutes a didactic software,
 proving to be interesting especially for students who are learning about Computer Architecture and Organization.
 
+# Instructions for use:
+
+To install:
+
+'''console
+$ make
+'''
+
+To use, just enter the commands you want in the "instructions.dsk" file, and then run:
+
+'''console
+$./main
+'''
+
 # Screenshots
  At startup:
 ![Startup](https://user-images.githubusercontent.com/50810498/185251508-d9ec82db-e024-4d1a-8924-a72745ead000.png)
