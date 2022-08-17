@@ -11,7 +11,7 @@ This software was developed as a project of the discipline of Computer Architect
 in order to provide a transparent view of how the architecture works. It will be seen that it constitutes a didactic software,
 proving to be interesting especially for students who are learning about Computer Architecture and Organization.
 
-# Instructions for use:
+# Instructions:
 
 To install:
 
