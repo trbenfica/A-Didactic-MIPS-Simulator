@@ -1,4 +1,4 @@
-# Transparent MIPS Architecture Simulator
+# Didactic MIPS Architecture Simulator
 
 Seeking to demonstrate the operation of the MIPS architecture, this simulator was built in order to perform a series of
 instructions belonging to the architecture's ISA. Running directly in the terminal, the instructions are executed one by one,
